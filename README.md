@@ -1,3 +1,3 @@
-# lgtm-mixin
+# monitoring-mixins
 
-A backup of Grafana's LGTM stack mixins.
+A backup of a few monitoring mixins.
