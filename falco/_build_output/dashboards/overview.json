@@ -52,10 +52,10 @@
               "viz": false
             }
           },
-          "mappings"
+          "mappings": [],
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 9,
@@ -125,10 +125,10 @@
               "viz": false
             }
           },
-          "mappings"
+          "mappings": [],
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 9,
@@ -199,7 +199,7 @@
             }
           },
           "fieldMinMax": false,
-          "mappings"
+          "mappings": [],
           "unit": "none"
         },
         "overrides": [
@@ -425,7 +425,7 @@
             }
           },
           "fieldMinMax": false,
-          "mappings"
+          "mappings": [],
           "min": 0.01,
           "thresholds": {
             "mode": "absolute",
@@ -442,7 +442,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 14,
@@ -601,7 +601,7 @@
           },
           "decimals": 0,
           "fieldMinMax": false,
-          "mappings"
+          "mappings": [],
           "min": 0.01,
           "thresholds": {
             "mode": "absolute",
@@ -618,7 +618,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 14,
@@ -774,7 +774,7 @@
             }
           },
           "fieldMinMax": false,
-          "mappings"
+          "mappings": [],
           "min": 0.01,
           "thresholds": {
             "mode": "absolute",
@@ -791,7 +791,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 15,
@@ -914,7 +914,7 @@
         "y": 39
       },
       "id": 8,
-      "panels"
+      "panels": [],
       "title": "Performances",
       "type": "row"
     },
@@ -961,7 +961,7 @@
               "mode": "off"
             }
           },
-          "mappings"
+          "mappings": [],
           "thresholds": {
             "mode": "absolute",
             "steps": [
@@ -1121,7 +1121,7 @@
               "mode": "off"
             }
           },
-          "mappings"
+          "mappings": [],
           "thresholds": {
             "mode": "absolute",
             "steps": [
@@ -1136,7 +1136,7 @@
           },
           "unit": "decbytes"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -1227,7 +1227,7 @@
               "mode": "off"
             }
           },
-          "mappings"
+          "mappings": [],
           "thresholds": {
             "mode": "absolute",
             "steps": [
@@ -1242,7 +1242,7 @@
           },
           "unit": "decbytes"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -1367,7 +1367,7 @@
           },
           "unit": "percent"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -1473,7 +1473,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -1579,7 +1579,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -1685,7 +1685,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 16,
@@ -1876,7 +1876,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 16,
@@ -2067,7 +2067,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -2171,7 +2171,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -2275,7 +2275,7 @@
           },
           "unit": "none"
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 12,
@@ -2351,9 +2351,9 @@
               "viz": false
             }
           },
-          "mappings": ]
+          "mappings": []
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 9,
@@ -2371,7 +2371,7 @@
           "displayMode": "list",
           "placement": "bottom",
           "showLegend": true,
-          "values": ]
+          "values": []
         },
         "pieType": "pie",
         "reduceOptions": {
@@ -2424,9 +2424,9 @@
               "viz": false
             }
           },
-          "mappings": ]
+          "mappings": []
         },
-        "overrides": ]
+        "overrides": []
       },
       "gridPos": {
         "h": 9,
@@ -2444,7 +2444,7 @@
           "displayMode": "list",
           "placement": "bottom",
           "showLegend": true,
-          "values": ]
+          "values": []
         },
         "pieType": "pie",
         "reduceOptions": {
